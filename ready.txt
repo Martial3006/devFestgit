@@ -1,0 +1,2 @@
+*****   Description 
+Ceci est une introduction à git lors du devfest Bénin 2015.
